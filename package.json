@@ -1,0 +1,20 @@
+{
+  "name": "openseabulk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0x/subproviders": "^6.5.4",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "enquirer": "^2.3.6",
+    "ethers": "^5.4.1",
+    "hdwalletprovider": "^1.7.0",
+    "opensea-js": "^1.1.11",
+    "web3-provider-engine": "^16.0.1"
+  }
+}
